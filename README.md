@@ -1,5 +1,3 @@
-# pg-discord-bot-boilerplate
-
 Boilerplate for a python bot in typescript
 
 > This uses `pnpm` package manager.
